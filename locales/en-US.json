@@ -1,0 +1,179 @@
+{
+  "common": {
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "contactUs": "Contact Us",
+    "exploreServices": "Explore Our Services",
+    "readMore": "Read More",
+    "viewCaseStudy": "View Case Study",
+    "getInTouch": "Get in Touch"
+  },
+  "navigation": {
+    "home": "Home",
+    "services": "Services",
+    "locations": "Locations",
+    "about": "About",
+    "contact": "Contact",
+    "blog": "Blog",
+    "careers": "Careers"
+  },
+  "home": {
+    "hero": {
+      "title": "Innovative Technology Solutions for Modern Businesses",
+      "subtitle": "We help organizations transform, innovate, and thrive in the digital era through cutting-edge technology solutions and strategic guidance.",
+      "cta": "Discover Our Services"
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "Comprehensive technology solutions tailored to your business needs"
+    },
+    "about": {
+      "title": "Who We Are",
+      "content": "Aether Zenith is a leading technology consultancy that helps businesses harness the power of emerging technologies to solve complex challenges and create new opportunities. With offices across the globe and a team of experienced professionals, we deliver innovative solutions that drive real business value.",
+      "mission": "Our mission is to empower organizations to achieve their full potential through technology innovation and digital transformation.",
+      "values": {
+        "innovation": {
+          "title": "Innovation",
+          "description": "We constantly explore new technologies and approaches to deliver cutting-edge solutions."
+        },
+        "excellence": {
+          "title": "Excellence",
+          "description": "We are committed to delivering the highest quality in everything we do."
+        }
+      }
+    },
+    "testimonials": {
+      "title": "What Our Clients Say",
+      "subtitle": "Hear from organizations that have transformed their businesses with our help"
+    },
+    "cta": {
+      "title": "Ready to Transform Your Business?",
+      "subtitle": "Let's discuss how our technology solutions can help you achieve your goals.",
+      "button1": "Contact Us",
+      "button2": "Explore Services"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive technology solutions to help your business thrive",
+    "relatedServices": "Related Services",
+    "serviceDetail": {
+      "benefits": "Key Benefits",
+      "technologies": "Technologies",
+      "caseStudies": "Case Studies",
+      "faqs": "Frequently Asked Questions",
+      "relatedLocations": "Where We Offer This Service",
+      "getStarted": "Get Started with This Service"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About Aether Zenith",
+      "subtitle": "A global technology consultancy dedicated to helping businesses transform and thrive"
+    },
+    "story": {
+      "title": "Our Story",
+      "paragraph1": "Founded in 2018, Aether Zenith began with a simple mission: to help businesses harness the transformative power of emerging technologies. What started as a small team of technology enthusiasts in London has grown into a global consultancy with offices across five continents.",
+      "paragraph2": "Our journey has been defined by a relentless commitment to innovation, excellence, and client success. We've helped hundreds of organizations across various industries modernize their operations, create new digital experiences, and build technology-driven competitive advantages.",
+      "paragraph3": "Today, Aether Zenith stands at the forefront of digital transformation, combining deep technical expertise with strategic business acumen to deliver solutions that drive meaningful results for our clients worldwide."
+    },
+    "valuesSection": {
+      "title": "Our Values",
+      "subtitle": "The principles that guide everything we do"
+    },
+    "values": {
+      "innovation": {
+        "title": "Innovation",
+        "description": "We constantly explore new technologies and approaches to deliver cutting-edge solutions that create real value."
+      },
+      "excellence": {
+        "title": "Excellence",
+        "description": "We are committed to delivering the highest quality in everything we do, exceeding expectations at every opportunity."
+      },
+      "integrity": {
+        "title": "Integrity",
+        "description": "We operate with transparency, honesty, and ethical principles in all our interactions and decisions."
+      },
+      "collaboration": {
+        "title": "Collaboration",
+        "description": "We believe in the power of teamwork, partnering closely with our clients and each other to achieve shared goals."
+      }
+    },
+    "team": {
+      "title": "Our Leadership Team",
+      "subtitle": "Meet the experts guiding our vision and strategy"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Get in touch with our team to discuss how we can help your business"
+    },
+    "form": {
+      "title": "Send Us a Message",
+      "subtitle": "Fill out the form below and we'll get back to you as soon as possible.",
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "company": "Company Name",
+      "service": "Service of Interest",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "required": "Required",
+      "successTitle": "Message Sent!",
+      "successMessage": "Thank you for contacting us. One of our team members will get back to you shortly.",
+      "errorTitle": "Something went wrong",
+      "errorMessage": "There was an error sending your message. Please try again or contact us directly."
+    },
+    "info": {
+      "title": "Contact Information",
+      "general": {
+        "title": "General Inquiries",
+        "email": "Email Us",
+        "phone": "Call Us"
+      },
+      "offices": {
+        "title": "Our Offices",
+        "keyIndustries": "Key Industries"
+      }
+    }
+  },
+  "locations": {
+    "title": "Our Global Presence",
+    "subtitle": "Serving clients worldwide with local expertise",
+    "officeDetail": {
+      "contactInfo": "Contact Information",
+      "keyIndustries": "Key Industries",
+      "servicesOffered": "Services Offered",
+      "teamSize": "Team Size",
+      "established": "Established",
+      "contactUs": "Contact This Office"
+    }
+  },
+  "footer": {
+    "company": {
+      "title": "Company",
+      "about": "About Us",
+      "careers": "Careers",
+      "contact": "Contact Us",
+      "blog": "Blog"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy"
+    },
+    "contact": {
+      "title": "Contact",
+      "address": "Address",
+      "email": "Email",
+      "phone": "Phone"
+    },
+    "copyright": "© 2023 Aether Zenith. All rights reserved."
+  },
+  "seo": {
+    "defaultTitle": "Aether Zenith | Technology Solutions for Modern Businesses",
+    "defaultDescription": "Aether Zenith provides cutting-edge technology solutions including AI, cloud services, and data analytics to help businesses transform and grow in the digital era."
+  }
+} 

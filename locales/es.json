@@ -1,0 +1,179 @@
+{
+  "common": {
+    "learnMore": "Saber Más",
+    "getStarted": "Comenzar",
+    "contactUs": "Contáctenos",
+    "exploreServices": "Explorar Nuestros Servicios",
+    "readMore": "Leer Más",
+    "viewCaseStudy": "Ver Caso de Éxito",
+    "getInTouch": "Ponerse en Contacto"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "locations": "Ubicaciones",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "blog": "Blog",
+    "careers": "Carreras"
+  },
+  "home": {
+    "hero": {
+      "title": "Soluciones Tecnológicas Innovadoras para Empresas Modernas",
+      "subtitle": "Ayudamos a las organizaciones a transformarse, innovar y prosperar en la era digital a través de soluciones tecnológicas de vanguardia y orientación estratégica.",
+      "cta": "Descubrir Nuestros Servicios"
+    },
+    "services": {
+      "title": "Nuestros Servicios",
+      "subtitle": "Soluciones tecnológicas integrales adaptadas a las necesidades de su empresa"
+    },
+    "about": {
+      "title": "Quiénes Somos",
+      "content": "Aether Zenith es una consultora tecnológica líder que ayuda a las empresas a aprovechar el poder de las tecnologías emergentes para resolver desafíos complejos y crear nuevas oportunidades. Con oficinas en todo el mundo y un equipo de profesionales experimentados, ofrecemos soluciones innovadoras que generan valor empresarial real.",
+      "mission": "Nuestra misión es capacitar a las organizaciones para que alcancen su máximo potencial a través de la innovación tecnológica y la transformación digital.",
+      "values": {
+        "innovation": {
+          "title": "Innovación",
+          "description": "Exploramos constantemente nuevas tecnologías y enfoques para ofrecer soluciones de vanguardia."
+        },
+        "excellence": {
+          "title": "Excelencia",
+          "description": "Estamos comprometidos a ofrecer la más alta calidad en todo lo que hacemos."
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Lo Que Dicen Nuestros Clientes",
+      "subtitle": "Escuche de organizaciones que han transformado sus negocios con nuestra ayuda"
+    },
+    "cta": {
+      "title": "¿Listo para Transformar su Negocio?",
+      "subtitle": "Hablemos sobre cómo nuestras soluciones tecnológicas pueden ayudarle a alcanzar sus objetivos.",
+      "button1": "Contáctenos",
+      "button2": "Explorar Servicios"
+    }
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Soluciones tecnológicas integrales para ayudar a su empresa a prosperar",
+    "relatedServices": "Servicios Relacionados",
+    "serviceDetail": {
+      "benefits": "Beneficios Clave",
+      "technologies": "Tecnologías",
+      "caseStudies": "Casos de Éxito",
+      "faqs": "Preguntas Frecuentes",
+      "relatedLocations": "Dónde Ofrecemos Este Servicio",
+      "getStarted": "Comenzar con Este Servicio"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Acerca de Aether Zenith",
+      "subtitle": "Una consultora tecnológica global dedicada a ayudar a las empresas a transformarse y prosperar"
+    },
+    "story": {
+      "title": "Nuestra Historia",
+      "paragraph1": "Fundada en 2018, Aether Zenith comenzó con una misión simple: ayudar a las empresas a aprovechar el poder transformador de las tecnologías emergentes. Lo que comenzó como un pequeño equipo de entusiastas de la tecnología en Londres se ha convertido en una consultora global con oficinas en cinco continentes.",
+      "paragraph2": "Nuestro viaje ha estado definido por un compromiso incansable con la innovación, la excelencia y el éxito del cliente. Hemos ayudado a cientos de organizaciones en diversas industrias a modernizar sus operaciones, crear nuevas experiencias digitales y construir ventajas competitivas basadas en la tecnología.",
+      "paragraph3": "Hoy, Aether Zenith está a la vanguardia de la transformación digital, combinando profunda experiencia técnica con perspicacia empresarial estratégica para ofrecer soluciones que generan resultados significativos para nuestros clientes en todo el mundo."
+    },
+    "valuesSection": {
+      "title": "Nuestros Valores",
+      "subtitle": "Los principios que guían todo lo que hacemos"
+    },
+    "values": {
+      "innovation": {
+        "title": "Innovación",
+        "description": "Exploramos constantemente nuevas tecnologías y enfoques para ofrecer soluciones de vanguardia que crean valor real."
+      },
+      "excellence": {
+        "title": "Excelencia",
+        "description": "Estamos comprometidos a ofrecer la más alta calidad en todo lo que hacemos, superando las expectativas en cada oportunidad."
+      },
+      "integrity": {
+        "title": "Integridad",
+        "description": "Operamos con transparencia, honestidad y principios éticos en todas nuestras interacciones y decisiones."
+      },
+      "collaboration": {
+        "title": "Colaboración",
+        "description": "Creemos en el poder del trabajo en equipo, colaborando estrechamente con nuestros clientes y entre nosotros para lograr objetivos compartidos."
+      }
+    },
+    "team": {
+      "title": "Nuestro Equipo Directivo",
+      "subtitle": "Conozca a los expertos que guían nuestra visión y estrategia"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contáctenos",
+      "subtitle": "Póngase en contacto con nuestro equipo para hablar sobre cómo podemos ayudar a su empresa"
+    },
+    "form": {
+      "title": "Envíenos un Mensaje",
+      "subtitle": "Complete el formulario a continuación y nos pondremos en contacto con usted lo antes posible.",
+      "name": "Nombre Completo",
+      "email": "Correo Electrónico",
+      "phone": "Número de Teléfono",
+      "company": "Nombre de la Empresa",
+      "service": "Servicio de Interés",
+      "message": "Su Mensaje",
+      "submit": "Enviar Mensaje",
+      "required": "Obligatorio",
+      "successTitle": "¡Mensaje Enviado!",
+      "successMessage": "Gracias por contactarnos. Uno de los miembros de nuestro equipo se pondrá en contacto con usted en breve.",
+      "errorTitle": "Algo salió mal",
+      "errorMessage": "Hubo un error al enviar su mensaje. Por favor, inténtelo de nuevo o contáctenos directamente."
+    },
+    "info": {
+      "title": "Información de Contacto",
+      "general": {
+        "title": "Consultas Generales",
+        "email": "Envíenos un Correo",
+        "phone": "Llámenos"
+      },
+      "offices": {
+        "title": "Nuestras Oficinas",
+        "keyIndustries": "Industrias Clave"
+      }
+    }
+  },
+  "locations": {
+    "title": "Nuestra Presencia Global",
+    "subtitle": "Sirviendo a clientes en todo el mundo con experiencia local",
+    "officeDetail": {
+      "contactInfo": "Información de Contacto",
+      "keyIndustries": "Industrias Clave",
+      "servicesOffered": "Servicios Ofrecidos",
+      "teamSize": "Tamaño del Equipo",
+      "established": "Establecida",
+      "contactUs": "Contactar Esta Oficina"
+    }
+  },
+  "footer": {
+    "company": {
+      "title": "Empresa",
+      "about": "Sobre Nosotros",
+      "careers": "Carreras",
+      "contact": "Contáctenos",
+      "blog": "Blog"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Política de Privacidad",
+      "terms": "Términos de Servicio",
+      "cookies": "Política de Cookies"
+    },
+    "contact": {
+      "title": "Contacto",
+      "address": "Dirección",
+      "email": "Correo Electrónico",
+      "phone": "Teléfono"
+    },
+    "copyright": "© 2023 Aether Zenith. Todos los derechos reservados."
+  },
+  "seo": {
+    "defaultTitle": "Aether Zenith | Soluciones Tecnológicas para Empresas Modernas",
+    "defaultDescription": "Aether Zenith proporciona soluciones tecnológicas de vanguardia que incluyen IA, servicios en la nube y análisis de datos para ayudar a las empresas a transformarse y crecer en la era digital."
+  }
+} 

@@ -1,0 +1,105 @@
+{
+  "common": {
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "contactUs": "Contact Us",
+    "exploreServices": "Explore Services",
+    "readMore": "Read More",
+    "viewCaseStudy": "View Case Study",
+    "getInTouch": "Get in Touch"
+  },
+  "navigation": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "blog": "Blog",
+    "careers": "Careers"
+  },
+  "home": {
+    "hero": {
+      "title": "Transforming Ideas into Digital Reality",
+      "subtitle": "Innovative software solutions powered by cutting-edge technology"
+    },
+    "services": {
+      "title": "Our Core Services",
+      "subtitle": "We deliver exceptional software solutions tailored to your business needs"
+    },
+    "about": {
+      "title": "About Aether Zenith Tech",
+      "paragraph1": "At Aether Zenith Tech, we combine technical expertise with innovative thinking to deliver software solutions that drive business growth and digital transformation.",
+      "paragraph2": "Our team of experienced engineers, developers, and consultants work collaboratively to address complex challenges and create tailored solutions that exceed expectations."
+    },
+    "cta": {
+      "title": "Ready to Transform Your Business?",
+      "subtitle": "Partner with Aether Zenith Tech to leverage cutting-edge technology solutions that drive growth and innovation."
+    }
+  },
+  "services": {
+    "ai": {
+      "title": "AI-Driven Financial Solutions",
+      "shortDesc": "Leverage the power of artificial intelligence to optimize financial operations and gain valuable insights.",
+      "fullDesc": "Our AI-driven financial solutions combine cutting-edge machine learning algorithms with deep financial expertise to transform how businesses manage their finances. From predictive analytics and risk assessment to automated reporting and fraud detection, our solutions provide actionable insights that drive better decision-making and operational efficiency."
+    },
+    "cloud": {
+      "title": "Cloud Computing",
+      "shortDesc": "Scalable and secure cloud infrastructure solutions to power your business applications.",
+      "fullDesc": "Our cloud computing services provide businesses with flexible, scalable, and cost-effective infrastructure solutions. Whether you're looking to migrate existing applications to the cloud, build cloud-native solutions, or optimize your current cloud environment, our team of experts will design and implement a tailored strategy that aligns with your business objectives."
+    },
+    "software": {
+      "title": "Software Development",
+      "shortDesc": "Custom software solutions designed to address your unique business challenges.",
+      "fullDesc": "Our software development services deliver tailored solutions that address your specific business needs. From enterprise applications and middleware integration to custom software products, our experienced development team follows industry best practices to create robust, scalable, and maintainable software that drives business value."
+    },
+    "web": {
+      "title": "Web & App Development",
+      "shortDesc": "Responsive web applications and mobile apps that deliver exceptional user experiences.",
+      "fullDesc": "Our web and app development services focus on creating engaging, user-friendly digital experiences across all devices. From responsive websites and progressive web apps to native mobile applications, we combine technical expertise with creative design to deliver solutions that captivate users and drive business growth."
+    },
+    "digital": {
+      "title": "Digital Transformation",
+      "shortDesc": "Strategic guidance and implementation to modernize your business processes.",
+      "fullDesc": "Our digital transformation services help businesses reimagine their operations through technology. We provide strategic guidance and implementation expertise to modernize legacy systems, optimize business processes, and create new digital capabilities that drive innovation and competitive advantage."
+    },
+    "benefits": "Benefits",
+    "technologies": "Technologies",
+    "caseStudies": "Case Studies"
+  },
+  "footer": {
+    "company": "Company",
+    "services": "Services",
+    "contact": "Contact",
+    "copyright": "© {year} Aether Zenith Tech. All rights reserved.",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "sitemap": "Sitemap"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Have a question or want to discuss a project? Fill out the form below and we'll get back to you shortly.",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "company": "Company Name",
+    "message": "Your Message",
+    "submit": "Send Message",
+    "success": "Thank you! Your message has been sent successfully.",
+    "error": "Oops! Something went wrong. Please try again.",
+    "officeLocations": "Office Locations",
+    "findUs": "Find Us"
+  },
+  "seo": {
+    "home": {
+      "title": "Aether Zenith Tech | Innovative Software Solutions",
+      "description": "Aether Zenith Tech provides cutting-edge AI-driven financial solutions, cloud computing, web & app development, and digital transformation strategies."
+    },
+    "services": {
+      "title": "Our Services | Aether Zenith Tech",
+      "description": "Explore our comprehensive range of technology services including AI solutions, cloud computing, software development, and digital transformation."
+    },
+    "contact": {
+      "title": "Contact Us | Aether Zenith Tech",
+      "description": "Get in touch with our team of experts to discuss your technology needs and discover how we can help transform your business."
+    }
+  }
+} 

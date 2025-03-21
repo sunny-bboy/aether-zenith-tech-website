@@ -1,0 +1,206 @@
+[
+  {
+    "id": "ai-solutions",
+    "title": "AI & Machine Learning",
+    "shortDescription": "Harness the power of artificial intelligence and machine learning to transform your business operations and gain competitive advantage.",
+    "icon": "/images/services/ai.svg",
+    "iconBg": "bg-purple-100 dark:bg-purple-900/30",
+    "fullDescription": "Our AI and Machine Learning solutions help businesses leverage cutting-edge technology to automate processes, gain insights from data, and create intelligent applications. We work with you to identify opportunities where AI can drive value, then develop and implement custom solutions tailored to your specific needs.",
+    "benefits": [
+      "Automate repetitive tasks and processes",
+      "Extract valuable insights from large datasets",
+      "Enhance decision-making with predictive analytics",
+      "Improve customer experiences with personalization",
+      "Reduce operational costs and increase efficiency"
+    ],
+    "technologies": [
+      "TensorFlow",
+      "PyTorch",
+      "Natural Language Processing",
+      "Computer Vision",
+      "Reinforcement Learning",
+      "Deep Learning"
+    ],
+    "categories": ["Technology", "Innovation", "Data"],
+    "caseStudies": [
+      {
+        "title": "Predictive Maintenance System for Manufacturing",
+        "description": "We developed an AI-powered predictive maintenance system for a global manufacturing company, reducing equipment downtime by 37% and maintenance costs by 25%."
+      },
+      {
+        "title": "Customer Sentiment Analysis for Retail",
+        "description": "Our NLP solution helped a retail chain analyze customer feedback across multiple channels, improving customer satisfaction scores by 18% within six months."
+      }
+    ]
+  },
+  {
+    "id": "cloud-services",
+    "title": "Cloud Computing",
+    "shortDescription": "Modernize your infrastructure with scalable, secure, and cost-effective cloud solutions designed for your business needs.",
+    "icon": "/images/services/cloud.svg",
+    "iconBg": "bg-blue-100 dark:bg-blue-900/30",
+    "fullDescription": "Our cloud computing services help organizations migrate to the cloud, optimize existing cloud infrastructure, and build cloud-native applications. We provide end-to-end solutions including assessment, planning, migration, and ongoing management to ensure you get the most value from your cloud investment.",
+    "benefits": [
+      "Reduce infrastructure costs with pay-as-you-go models",
+      "Scale resources up or down based on demand",
+      "Improve business continuity and disaster recovery",
+      "Enhance security with advanced cloud protection",
+      "Accelerate innovation and time-to-market"
+    ],
+    "technologies": [
+      "AWS",
+      "Microsoft Azure",
+      "Google Cloud Platform",
+      "Kubernetes",
+      "Docker",
+      "Serverless Architecture"
+    ],
+    "categories": ["Infrastructure", "Technology", "Security"],
+    "caseStudies": [
+      {
+        "title": "Cloud Migration for Financial Services Firm",
+        "description": "We helped a financial services company migrate their legacy systems to AWS, resulting in 40% cost savings and 99.99% uptime."
+      },
+      {
+        "title": "Serverless Application for E-commerce",
+        "description": "Our team built a serverless architecture for an e-commerce platform, enabling them to handle 300% more traffic during peak seasons without performance issues."
+      }
+    ]
+  },
+  {
+    "id": "web-app-development",
+    "title": "Web & App Development",
+    "shortDescription": "Create engaging, responsive, and feature-rich web and mobile applications that deliver exceptional user experiences.",
+    "icon": "/images/services/development.svg",
+    "iconBg": "bg-green-100 dark:bg-green-900/30",
+    "fullDescription": "Our development team creates custom web and mobile applications that align with your business goals and user needs. From concept to deployment, we follow best practices in design, development, and testing to deliver high-quality solutions that perform across all devices and platforms.",
+    "benefits": [
+      "Custom solutions tailored to your specific requirements",
+      "Responsive designs that work on all devices",
+      "Intuitive user interfaces that enhance user experience",
+      "Scalable architecture that grows with your business",
+      "Ongoing support and maintenance"
+    ],
+    "technologies": [
+      "React",
+      "Angular",
+      "Node.js",
+      "React Native",
+      "Flutter",
+      "Progressive Web Apps"
+    ],
+    "categories": ["Development", "Design", "Mobile"],
+    "caseStudies": [
+      {
+        "title": "Customer Portal for Healthcare Provider",
+        "description": "We developed a secure patient portal for a healthcare provider, improving patient engagement by 45% and reducing administrative workload by 30%."
+      },
+      {
+        "title": "Mobile App for Field Service Management",
+        "description": "Our team created a cross-platform mobile app for field service technicians, increasing job completion rates by 22% and customer satisfaction by 15%."
+      }
+    ]
+  },
+  {
+    "id": "data-analytics",
+    "title": "Data Analytics & BI",
+    "shortDescription": "Transform raw data into actionable insights with our comprehensive data analytics and business intelligence solutions.",
+    "icon": "/images/services/analytics.svg",
+    "iconBg": "bg-yellow-100 dark:bg-yellow-900/30",
+    "fullDescription": "Our data analytics and business intelligence services help organizations collect, process, analyze, and visualize data to make better decisions. We work with you to develop data strategies, implement analytics platforms, and create dashboards that provide real-time insights into your business performance.",
+    "benefits": [
+      "Make data-driven decisions with confidence",
+      "Identify trends and patterns in your business data",
+      "Create interactive dashboards for real-time monitoring",
+      "Improve forecasting and planning accuracy",
+      "Uncover new opportunities for growth and optimization"
+    ],
+    "technologies": [
+      "Power BI",
+      "Tableau",
+      "Python",
+      "R",
+      "SQL",
+      "Big Data Technologies"
+    ],
+    "categories": ["Data", "Analytics", "Business Intelligence"],
+    "caseStudies": [
+      {
+        "title": "Sales Analytics Platform for Retail Chain",
+        "description": "We implemented a comprehensive sales analytics solution for a retail chain, helping them increase revenue by 12% through data-driven merchandising decisions."
+      },
+      {
+        "title": "Supply Chain Optimization for Manufacturer",
+        "description": "Our analytics solution helped a manufacturer optimize their supply chain, reducing inventory costs by 18% and improving on-time delivery by 25%."
+      }
+    ]
+  },
+  {
+    "id": "digital-transformation",
+    "title": "Digital Transformation",
+    "shortDescription": "Reimagine your business for the digital age with comprehensive strategies and solutions that drive growth and innovation.",
+    "icon": "/images/services/transformation.svg",
+    "iconBg": "bg-red-100 dark:bg-red-900/30",
+    "fullDescription": "Our digital transformation services help organizations evolve their business models, processes, and customer experiences to thrive in the digital economy. We take a holistic approach, combining strategy, technology, and change management to ensure successful transformation initiatives.",
+    "benefits": [
+      "Create new digital business models and revenue streams",
+      "Enhance customer experiences across all touchpoints",
+      "Improve operational efficiency through digitization",
+      "Build a culture of innovation and continuous improvement",
+      "Gain competitive advantage in your industry"
+    ],
+    "technologies": [
+      "Digital Strategy",
+      "Process Automation",
+      "Customer Experience Platforms",
+      "IoT",
+      "Blockchain",
+      "Change Management"
+    ],
+    "categories": ["Strategy", "Innovation", "Transformation"],
+    "caseStudies": [
+      {
+        "title": "Digital Transformation for Insurance Provider",
+        "description": "We helped an insurance company transform their customer onboarding process, reducing application processing time by 70% and increasing conversion rates by 25%."
+      },
+      {
+        "title": "Omnichannel Strategy for Retailer",
+        "description": "Our team developed and implemented an omnichannel strategy for a retailer, resulting in a 35% increase in cross-channel sales and improved customer retention."
+      }
+    ]
+  },
+  {
+    "id": "cybersecurity",
+    "title": "Cybersecurity",
+    "shortDescription": "Protect your business from evolving threats with comprehensive cybersecurity solutions that safeguard your data and systems.",
+    "icon": "/images/services/security.svg",
+    "iconBg": "bg-indigo-100 dark:bg-indigo-900/30",
+    "fullDescription": "Our cybersecurity services help organizations identify vulnerabilities, implement robust security measures, and respond effectively to incidents. We provide comprehensive protection across your entire IT ecosystem, from infrastructure to applications and endpoints.",
+    "benefits": [
+      "Protect sensitive data from breaches and theft",
+      "Ensure compliance with industry regulations",
+      "Minimize the risk of cyber attacks and their impact",
+      "Build customer trust through strong security practices",
+      "Develop security awareness throughout your organization"
+    ],
+    "technologies": [
+      "Threat Intelligence",
+      "Security Information and Event Management (SIEM)",
+      "Penetration Testing",
+      "Encryption",
+      "Identity and Access Management",
+      "Security Awareness Training"
+    ],
+    "categories": ["Security", "Compliance", "Risk Management"],
+    "caseStudies": [
+      {
+        "title": "Security Overhaul for Financial Institution",
+        "description": "We implemented a comprehensive security program for a financial institution, strengthening their defenses and achieving compliance with industry regulations."
+      },
+      {
+        "title": "Incident Response for Healthcare Provider",
+        "description": "Our team helped a healthcare provider respond to and recover from a ransomware attack, minimizing downtime and preventing data loss."
+      }
+    ]
+  }
+] 

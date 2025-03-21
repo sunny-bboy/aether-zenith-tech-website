@@ -1,0 +1,430 @@
+[
+  {
+    "id": "london",
+    "name": "London",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": "Europe",
+    "address": "123 Tech Avenue, Shoreditch, London EC1V 9BT",
+    "phone": "+44 20 7123 4567",
+    "email": "london@aetherzenith.tech",
+    "coordinates": {
+      "lat": 51.5259,
+      "lng": -0.0876
+    },
+    "description": "Our London headquarters serves as the central hub for our European operations. With a team of over 100 professionals specializing in AI, cloud computing, and digital transformation, we help businesses across the UK and Europe leverage technology to drive growth and innovation.",
+    "keyIndustries": [
+      "Financial Services",
+      "Healthcare",
+      "Retail",
+      "Manufacturing"
+    ],
+    "teamSize": 120,
+    "established": 2018,
+    "servicesOffered": [
+      "AI & Machine Learning",
+      "Cloud Computing",
+      "Web & App Development",
+      "Data Analytics & BI",
+      "Digital Transformation",
+      "Cybersecurity"
+    ],
+    "localCaseStudies": [
+      {
+        "title": "Digital Transformation for Major UK Bank",
+        "description": "We helped one of the UK's largest banks modernize their customer onboarding process, reducing application processing time by 70% and improving customer satisfaction scores by 35%."
+      },
+      {
+        "title": "AI-Powered Inventory Management for Retail Chain",
+        "description": "Our team implemented an AI solution for a leading UK retail chain that optimized inventory levels across 200+ stores, reducing stockouts by 45% and excess inventory by 30%."
+      }
+    ],
+    "imageUrl": "/images/locations/london.jpg"
+  },
+  {
+    "id": "manchester",
+    "name": "Manchester",
+    "country": "United Kingdom",
+    "countryCode": "UK",
+    "region": "Europe",
+    "address": "45 Innovation Way, Manchester, M1 5BG",
+    "phone": "+44 161 987 6543",
+    "email": "manchester@aetherzenith.tech",
+    "coordinates": {
+      "lat": 53.4808,
+      "lng": -2.2426
+    },
+    "description": "Our Manchester office specializes in digital transformation and software development for manufacturing and industrial clients across Northern England.",
+    "keyIndustries": ["Manufacturing", "Logistics", "Education", "Technology", "Energy"],
+    "localCaseStudies": [
+      {
+        "title": "Manchester Manufacturing Automation",
+        "description": "Developed and implemented an IoT-based automation system for a Manchester-based manufacturer, increasing production efficiency by 40% and reducing downtime by 65%."
+      },
+      {
+        "title": "Northern University Digital Learning Platform",
+        "description": "Created a comprehensive digital learning platform for a major Northern university, supporting over 30,000 students and improving engagement metrics by 45%."
+      }
+    ]
+  },
+  {
+    "id": "birmingham",
+    "name": "Birmingham",
+    "country": "United Kingdom",
+    "countryCode": "UK",
+    "region": "Europe",
+    "address": "78 Tech Park, Birmingham, B2 5EP",
+    "phone": "+44 121 456 7890",
+    "email": "birmingham@aetherzenith.tech",
+    "coordinates": {
+      "lat": 52.4862,
+      "lng": -1.8904
+    },
+    "description": "Our Birmingham office focuses on cloud computing and infrastructure solutions for businesses in the Midlands region.",
+    "keyIndustries": ["Automotive", "Healthcare", "Education", "Retail", "Public Sector"],
+    "localCaseStudies": [
+      {
+        "title": "Midlands Healthcare Provider Cloud Migration",
+        "description": "Successfully migrated a major Midlands healthcare provider to a secure cloud infrastructure, improving data accessibility and reducing IT costs by 28%."
+      },
+      {
+        "title": "Birmingham City Council Digital Services",
+        "description": "Developed digital service platforms for Birmingham City Council, enhancing citizen engagement and streamlining administrative processes."
+      }
+    ]
+  },
+  {
+    "id": "edinburgh",
+    "name": "Edinburgh",
+    "country": "United Kingdom",
+    "countryCode": "UK",
+    "region": "Europe",
+    "address": "34 Innovation Square, Edinburgh, EH1 1BB",
+    "phone": "+44 131 234 5678",
+    "email": "edinburgh@aetherzenith.tech",
+    "coordinates": {
+      "lat": 55.9533,
+      "lng": -3.1883
+    },
+    "description": "Our Edinburgh office specializes in AI and machine learning solutions, serving clients throughout Scotland and Northern Europe.",
+    "keyIndustries": ["Finance", "Energy", "Education", "Tourism", "Life Sciences"],
+    "localCaseStudies": [
+      {
+        "title": "Scottish Financial Services AI Implementation",
+        "description": "Implemented AI-driven risk assessment and fraud detection systems for a leading Scottish financial services provider, reducing fraud by 76% and improving risk management capabilities."
+      },
+      {
+        "title": "Edinburgh Renewable Energy Optimization",
+        "description": "Developed machine learning algorithms to optimize renewable energy production and distribution for a major Scottish energy provider, increasing efficiency by 23%."
+      }
+    ]
+  },
+  {
+    "id": "johannesburg",
+    "name": "Johannesburg",
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "region": "Africa",
+    "address": "100 Technology Drive, Sandton, Johannesburg, 2196",
+    "phone": "+27 11 234 5678",
+    "email": "johannesburg@aetherzenith.tech",
+    "coordinates": {
+      "lat": -26.1052,
+      "lng": 28.0567
+    },
+    "description": "Our Johannesburg office serves as our African headquarters, providing innovative technology solutions to businesses across South Africa and the broader African continent.",
+    "keyIndustries": ["Finance", "Mining", "Telecommunications", "Retail", "Healthcare"],
+    "localCaseStudies": [
+      {
+        "title": "South African Bank Digital Transformation",
+        "description": "Led a comprehensive digital transformation initiative for a major South African bank, resulting in a 42% increase in mobile banking adoption and a 30% reduction in operational costs."
+      },
+      {
+        "title": "African Telecom AI Customer Service",
+        "description": "Implemented AI-powered customer service solutions for a leading African telecommunications provider, improving resolution times by 65% and customer satisfaction by 48%."
+      }
+    ]
+  },
+  {
+    "id": "cape-town",
+    "name": "Cape Town",
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "region": "Africa",
+    "address": "42 Innovation Drive, Waterfront, Cape Town 8001",
+    "phone": "+27 21 555 1234",
+    "email": "capetown@aetherzenith.tech",
+    "coordinates": {
+      "lat": -33.9249,
+      "lng": 18.4241
+    },
+    "description": "Our Cape Town office leads our African operations, focusing on delivering innovative technology solutions to businesses across the continent. With deep expertise in mobile applications, financial technology, and data analytics, we help African companies leverage technology to solve unique local challenges and drive sustainable growth.",
+    "keyIndustries": [
+      "Financial Services",
+      "Telecommunications",
+      "Agriculture",
+      "Healthcare"
+    ],
+    "teamSize": 45,
+    "established": 2021,
+    "servicesOffered": [
+      "Web & App Development",
+      "Cloud Computing",
+      "Data Analytics & BI",
+      "Digital Transformation"
+    ],
+    "localCaseStudies": [
+      {
+        "title": "Mobile Banking Platform for Financial Inclusion",
+        "description": "We developed a mobile banking platform for a financial services provider that extended banking services to over 500,000 previously unbanked individuals across rural areas."
+      },
+      {
+        "title": "Agricultural Analytics Solution",
+        "description": "Our team created a data analytics solution for a major agricultural cooperative, helping farmers optimize crop yields and reduce water usage by 35% through data-driven decision making."
+      }
+    ],
+    "imageUrl": "/images/locations/cape-town.jpg"
+  },
+  {
+    "id": "durban",
+    "name": "Durban",
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "region": "Africa",
+    "address": "56 Tech Bay, Umhlanga, Durban, 4319",
+    "phone": "+27 31 345 6789",
+    "email": "durban@aetherzenith.tech",
+    "coordinates": {
+      "lat": -29.8587,
+      "lng": 31.0218
+    },
+    "description": "Our Durban office focuses on logistics and supply chain technology solutions, serving businesses along South Africa's eastern coast.",
+    "keyIndustries": ["Logistics", "Manufacturing", "Shipping", "Agriculture", "Retail"],
+    "localCaseStudies": [
+      {
+        "title": "Durban Port Logistics Optimization",
+        "description": "Implemented an advanced logistics management system for operations at the Port of Durban, reducing processing times by 35% and improving throughput by 28%."
+      },
+      {
+        "title": "KwaZulu-Natal Agricultural Supply Chain",
+        "description": "Developed a blockchain-based supply chain tracking system for agricultural producers in KwaZulu-Natal, enhancing traceability and reducing waste by 23%."
+      }
+    ]
+  },
+  {
+    "id": "new-york",
+    "name": "New York",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "North America",
+    "address": "555 Tech Plaza, Midtown, New York, NY 10022",
+    "phone": "+1 212 555 7890",
+    "email": "newyork@aetherzenith.tech",
+    "coordinates": {
+      "lat": 40.7589,
+      "lng": -73.9851
+    },
+    "description": "Our New York office leads our North American operations, serving clients across the United States and Canada. With expertise in financial technology, data analytics, and cybersecurity, our team of specialists helps businesses navigate the complex digital landscape and achieve their strategic objectives.",
+    "keyIndustries": [
+      "Financial Services",
+      "Media & Entertainment",
+      "Healthcare",
+      "Professional Services"
+    ],
+    "teamSize": 85,
+    "established": 2019,
+    "servicesOffered": [
+      "AI & Machine Learning",
+      "Cloud Computing",
+      "Data Analytics & BI",
+      "Cybersecurity",
+      "Digital Transformation"
+    ],
+    "localCaseStudies": [
+      {
+        "title": "Cloud Migration for Financial Services Firm",
+        "description": "We helped a Wall Street financial services company migrate their legacy systems to AWS, resulting in 40% cost savings and 99.99% uptime while meeting strict regulatory requirements."
+      },
+      {
+        "title": "Cybersecurity Overhaul for Healthcare Provider",
+        "description": "Our team implemented a comprehensive security program for a major healthcare provider, strengthening their defenses against ransomware and achieving compliance with HIPAA regulations."
+      }
+    ],
+    "imageUrl": "/images/locations/new-york.jpg"
+  },
+  {
+    "id": "madrid",
+    "name": "Madrid",
+    "country": "Spain",
+    "countryCode": "ES",
+    "region": "Europe",
+    "address": "Calle de Serrano 41, 28001 Madrid, Spain",
+    "phone": "+34 91 123 4567",
+    "email": "madrid@aetherzenith.com",
+    "coordinates": {
+      "latitude": 40.4168,
+      "longitude": -3.7038
+    },
+    "description": "Our Madrid office serves clients in Spain, Portugal, and Latin America, specializing in telecommunications, tourism, and renewable energy solutions. This office leverages its bilingual capabilities to bridge European and Latin American markets, providing seamless service across these regions.",
+    "keyIndustries": ["Telecommunications", "Tourism & Hospitality", "Renewable Energy", "Retail"],
+    "localCaseStudies": [
+      {
+        "title": "Telefónica Customer Experience",
+        "description": "Redesigned customer experience systems, resulting in improved satisfaction scores and reduced churn.",
+        "industry": "Telecommunications"
+      },
+      {
+        "title": "Iberdrola Smart Grid Analytics",
+        "description": "Developed analytics solutions for renewable energy grid management, optimizing energy distribution and reducing costs.",
+        "industry": "Energy"
+      }
+    ]
+  },
+  {
+    "id": "barcelona",
+    "name": "Barcelona",
+    "country": "Spain",
+    "countryCode": "ES",
+    "region": "Europe",
+    "address": "Avinguda Diagonal 211, Barcelona, 08018",
+    "phone": "+34 93 876 5432",
+    "email": "barcelona@aetherzenith.tech",
+    "coordinates": {
+      "lat": 41.3851,
+      "lng": 2.1734
+    },
+    "description": "Our Barcelona office specializes in mobile application development and smart city technologies, serving clients throughout Spain and the Mediterranean region.",
+    "keyIndustries": ["Tourism", "Smart Cities", "Healthcare", "Education", "Logistics"],
+    "localCaseStudies": [
+      {
+        "title": "Barcelona Smart City Initiative",
+        "description": "Developed IoT and data analytics solutions for Barcelona's smart city initiative, optimizing traffic flow and reducing congestion by 30%."
+      },
+      {
+        "title": "Catalonian Tourism Digital Experience",
+        "description": "Created an immersive digital experience platform for Catalonian tourism, increasing visitor engagement by 45% and boosting regional tourism revenue."
+      }
+    ]
+  },
+  {
+    "id": "singapore",
+    "name": "Singapore",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "region": "Asia Pacific",
+    "address": "88 Digital Tower, Level 25, Singapore 018956",
+    "phone": "+65 6123 4567",
+    "email": "singapore@aetherzenith.tech",
+    "coordinates": {
+      "lat": 1.2838,
+      "lng": 103.8502
+    },
+    "description": "Our Singapore office serves as the headquarters for our Asia Pacific operations. With a diverse team of technology experts, we help businesses across Southeast Asia, Australia, and Japan leverage emerging technologies to drive digital transformation and gain competitive advantage in rapidly evolving markets.",
+    "keyIndustries": [
+      "Financial Services",
+      "Logistics & Supply Chain",
+      "Manufacturing",
+      "E-commerce"
+    ],
+    "teamSize": 65,
+    "established": 2020,
+    "servicesOffered": [
+      "AI & Machine Learning",
+      "Cloud Computing",
+      "Web & App Development",
+      "Data Analytics & BI",
+      "Digital Transformation"
+    ],
+    "localCaseStudies": [
+      {
+        "title": "Supply Chain Optimization for Logistics Company",
+        "description": "We developed an AI-powered supply chain optimization solution for a regional logistics provider, reducing delivery times by 28% and operational costs by 22%."
+      },
+      {
+        "title": "E-commerce Platform Modernization",
+        "description": "Our team helped a leading e-commerce company modernize their platform architecture, resulting in 65% faster page load times and a 30% increase in conversion rates."
+      }
+    ],
+    "imageUrl": "/images/locations/singapore.jpg"
+  },
+  {
+    "id": "sydney",
+    "name": "Sydney",
+    "country": "Australia",
+    "countryCode": "AU",
+    "region": "Asia Pacific",
+    "address": "200 Tech Park, Barangaroo, Sydney NSW 2000",
+    "phone": "+61 2 8123 4567",
+    "email": "sydney@aetherzenith.tech",
+    "coordinates": {
+      "lat": -33.8651,
+      "lng": 151.2099
+    },
+    "description": "Our Sydney office serves clients across Australia and New Zealand, providing cutting-edge technology solutions to businesses in various sectors. With expertise in cloud computing, cybersecurity, and digital transformation, our team helps organizations navigate the digital landscape and achieve their business objectives.",
+    "keyIndustries": [
+      "Financial Services",
+      "Mining & Resources",
+      "Healthcare",
+      "Government"
+    ],
+    "teamSize": 40,
+    "established": 2021,
+    "servicesOffered": [
+      "Cloud Computing",
+      "Cybersecurity",
+      "Data Analytics & BI",
+      "Digital Transformation"
+    ],
+    "localCaseStudies": [
+      {
+        "title": "Secure Cloud Migration for Government Agency",
+        "description": "We helped a government agency migrate sensitive systems to a secure cloud environment, improving service delivery while maintaining strict compliance with data sovereignty requirements."
+      },
+      {
+        "title": "Predictive Maintenance for Mining Operations",
+        "description": "Our team implemented an IoT and AI solution for a mining company that reduced equipment downtime by 42% and maintenance costs by 28% across multiple sites."
+      }
+    ],
+    "imageUrl": "/images/locations/sydney.jpg"
+  },
+  {
+    "id": "berlin",
+    "name": "Berlin",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": "Europe",
+    "address": "75 Digital Strasse, Berlin 10115",
+    "phone": "+49 30 1234 5678",
+    "email": "berlin@aetherzenith.tech",
+    "coordinates": {
+      "lat": 52.5200,
+      "lng": 13.4050
+    },
+    "description": "Our Berlin office serves as a key technology hub for our European operations, focusing on AI research, software development, and digital innovation. With a team of highly skilled engineers and consultants, we help businesses across Germany and Central Europe leverage technology to drive efficiency, innovation, and growth.",
+    "keyIndustries": [
+      "Manufacturing",
+      "Automotive",
+      "Healthcare",
+      "E-commerce"
+    ],
+    "teamSize": 55,
+    "established": 2020,
+    "servicesOffered": [
+      "AI & Machine Learning",
+      "Web & App Development",
+      "Data Analytics & BI",
+      "Digital Transformation"
+    ],
+    "localCaseStudies": [
+      {
+        "title": "Industry 4.0 Implementation for Manufacturing",
+        "description": "We helped a German manufacturing company implement an Industry 4.0 solution that increased production efficiency by 32% and reduced quality issues by 45% through real-time monitoring and predictive analytics."
+      },
+      {
+        "title": "E-commerce Personalization Engine",
+        "description": "Our team developed an AI-powered personalization engine for an e-commerce platform, resulting in a 28% increase in average order value and 35% improvement in customer retention."
+      }
+    ],
+    "imageUrl": "/images/locations/berlin.jpg"
+  }
+] 

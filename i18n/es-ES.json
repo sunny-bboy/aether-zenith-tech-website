@@ -1,0 +1,105 @@
+{
+  "common": {
+    "learnMore": "Saber más",
+    "getStarted": "Comenzar",
+    "contactUs": "Contáctenos",
+    "exploreServices": "Explorar servicios",
+    "readMore": "Leer más",
+    "viewCaseStudy": "Ver caso de estudio",
+    "getInTouch": "Ponerse en contacto"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "blog": "Blog",
+    "careers": "Carreras"
+  },
+  "home": {
+    "hero": {
+      "title": "Transformando ideas en realidad digital",
+      "subtitle": "Soluciones de software innovadoras impulsadas por tecnología de vanguardia"
+    },
+    "services": {
+      "title": "Nuestros servicios principales",
+      "subtitle": "Ofrecemos soluciones de software excepcionales adaptadas a las necesidades de su negocio"
+    },
+    "about": {
+      "title": "Acerca de Aether Zenith Tech",
+      "paragraph1": "En Aether Zenith Tech, combinamos experiencia técnica con pensamiento innovador para ofrecer soluciones de software que impulsan el crecimiento empresarial y la transformación digital.",
+      "paragraph2": "Nuestro equipo de ingenieros, desarrolladores y consultores experimentados trabaja en colaboración para abordar desafíos complejos y crear soluciones personalizadas que superen las expectativas."
+    },
+    "cta": {
+      "title": "¿Listo para transformar su negocio?",
+      "subtitle": "Asóciese con Aether Zenith Tech para aprovechar soluciones tecnológicas de vanguardia que impulsan el crecimiento y la innovación."
+    }
+  },
+  "services": {
+    "ai": {
+      "title": "Soluciones financieras impulsadas por IA",
+      "shortDesc": "Aproveche el poder de la inteligencia artificial para optimizar las operaciones financieras y obtener información valiosa.",
+      "fullDesc": "Nuestras soluciones financieras impulsadas por IA combinan algoritmos de aprendizaje automático de vanguardia con profunda experiencia financiera para transformar la forma en que las empresas gestionan sus finanzas. Desde análisis predictivo y evaluación de riesgos hasta informes automatizados y detección de fraudes, nuestras soluciones proporcionan información procesable que impulsa una mejor toma de decisiones y eficiencia operativa."
+    },
+    "cloud": {
+      "title": "Computación en la nube",
+      "shortDesc": "Soluciones de infraestructura en la nube escalables y seguras para potenciar sus aplicaciones empresariales.",
+      "fullDesc": "Nuestros servicios de computación en la nube proporcionan a las empresas soluciones de infraestructura flexibles, escalables y rentables. Ya sea que esté buscando migrar aplicaciones existentes a la nube, construir soluciones nativas de la nube u optimizar su entorno de nube actual, nuestro equipo de expertos diseñará e implementará una estrategia personalizada que se alinee con sus objetivos comerciales."
+    },
+    "software": {
+      "title": "Desarrollo de software",
+      "shortDesc": "Soluciones de software personalizadas diseñadas para abordar sus desafíos empresariales únicos.",
+      "fullDesc": "Nuestros servicios de desarrollo de software ofrecen soluciones personalizadas que abordan sus necesidades comerciales específicas. Desde aplicaciones empresariales e integración de middleware hasta productos de software personalizados, nuestro experimentado equipo de desarrollo sigue las mejores prácticas de la industria para crear software robusto, escalable y mantenible que impulsa el valor empresarial."
+    },
+    "web": {
+      "title": "Desarrollo web y de aplicaciones",
+      "shortDesc": "Aplicaciones web responsivas y aplicaciones móviles que ofrecen experiencias de usuario excepcionales.",
+      "fullDesc": "Nuestros servicios de desarrollo web y de aplicaciones se centran en crear experiencias digitales atractivas y fáciles de usar en todos los dispositivos. Desde sitios web responsivos y aplicaciones web progresivas hasta aplicaciones móviles nativas, combinamos experiencia técnica con diseño creativo para ofrecer soluciones que cautivan a los usuarios e impulsan el crecimiento empresarial."
+    },
+    "digital": {
+      "title": "Transformación digital",
+      "shortDesc": "Orientación estratégica e implementación para modernizar sus procesos empresariales.",
+      "fullDesc": "Nuestros servicios de transformación digital ayudan a las empresas a reimaginar sus operaciones a través de la tecnología. Proporcionamos orientación estratégica y experiencia en implementación para modernizar sistemas heredados, optimizar procesos empresariales y crear nuevas capacidades digitales que impulsan la innovación y la ventaja competitiva."
+    },
+    "benefits": "Beneficios",
+    "technologies": "Tecnologías",
+    "caseStudies": "Casos de estudio"
+  },
+  "footer": {
+    "company": "Empresa",
+    "services": "Servicios",
+    "contact": "Contacto",
+    "copyright": "© {year} Aether Zenith Tech. Todos los derechos reservados.",
+    "privacy": "Privacidad",
+    "terms": "Términos",
+    "sitemap": "Mapa del sitio"
+  },
+  "contact": {
+    "title": "Ponerse en contacto",
+    "subtitle": "¿Tiene una pregunta o desea discutir un proyecto? Complete el formulario a continuación y nos pondremos en contacto con usted a la brevedad.",
+    "name": "Nombre completo",
+    "email": "Dirección de correo electrónico",
+    "phone": "Número de teléfono",
+    "company": "Nombre de la empresa",
+    "message": "Su mensaje",
+    "submit": "Enviar mensaje",
+    "success": "¡Gracias! Su mensaje ha sido enviado con éxito.",
+    "error": "¡Ups! Algo salió mal. Por favor, inténtelo de nuevo.",
+    "officeLocations": "Ubicaciones de oficinas",
+    "findUs": "Encuéntrenos"
+  },
+  "seo": {
+    "home": {
+      "title": "Aether Zenith Tech | Soluciones de software innovadoras",
+      "description": "Aether Zenith Tech proporciona soluciones financieras de vanguardia impulsadas por IA, computación en la nube, desarrollo web y de aplicaciones, y estrategias de transformación digital."
+    },
+    "services": {
+      "title": "Nuestros servicios | Aether Zenith Tech",
+      "description": "Explore nuestra amplia gama de servicios tecnológicos que incluyen soluciones de IA, computación en la nube, desarrollo de software y transformación digital."
+    },
+    "contact": {
+      "title": "Contáctenos | Aether Zenith Tech",
+      "description": "Póngase en contacto con nuestro equipo de expertos para discutir sus necesidades tecnológicas y descubrir cómo podemos ayudar a transformar su negocio."
+    }
+  }
+} 
