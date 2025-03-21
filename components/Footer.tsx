@@ -77,7 +77,8 @@ const Footer: React.FC = () => {
                   <Image 
                     src="/images/logo-dark.svg" 
                     alt="Aether Zenith Tech" 
-                    fill
+                    width={160}
+                    height={40}
                     className="object-contain"
                   />
                 </div>
