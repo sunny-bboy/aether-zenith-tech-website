@@ -2,8 +2,8 @@ import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useTranslation } from '../hooks/useTranslation';
-import { getAllServices } from '../lib/services';
-import { getAllLocations } from '../lib/locations';
+import { getAllServices, Service } from '../lib/services';
+import { getAllLocations, Location } from '../lib/locations';
 
 const Footer: React.FC = () => {
   const { t } = useTranslation();
@@ -107,7 +107,7 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="text-white text-lg font-semibold mb-6">{t('footer.services')}</h3>
             <ul className="space-y-3">
-              {services.slice(0, 5).map((service) => (
+              {services.slice(0, 5).map((service: Service) => (
                 <li key={service.id}>
                   <Link 
                     href={`/services/${service.id}`}
@@ -132,7 +132,7 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="text-white text-lg font-semibold mb-6">{t('footer.locations')}</h3>
             <ul className="space-y-3">
-              {locations.slice(0, 5).map((location) => (
+              {locations.slice(0, 5).map((location: Location) => (
                 <li key={location.id}>
                   <Link 
                     href={`/locations/${location.id}`}
