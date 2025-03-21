@@ -40,7 +40,8 @@ const BlogCard: React.FC<BlogCardProps> = ({
         <Image
           src={coverImage}
           alt={title}
-          fill
+          width={800}
+          height={400}
           className="object-cover transition-transform hover:scale-105 duration-300"
         />
       </Link>
