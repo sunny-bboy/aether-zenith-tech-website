@@ -25,7 +25,7 @@ const ServicePage: React.FC<ServicePageProps> = ({ service, relatedLocations }) 
     return <div>Loading...</div>;
   }
 
-  const seo = getServiceSEO(service, locale);
+  const seo = getServiceSEO(service);
 
   return (
     <div className="min-h-screen flex flex-col">
@@ -168,8 +168,9 @@ const ServicePage: React.FC<ServicePageProps> = ({ service, relatedLocations }) 
                       <Image 
                         src={`/images/case-study-${index + 1}.jpg`} 
                         alt={caseStudy.title} 
-                        layout="fill"
-                        objectFit="cover"
+                        width={800}
+                        height={400}
+                        className="object-cover"
                       />
                       <div className="absolute inset-0 bg-black/40"></div>
                       <h3 className="text-2xl font-bold text-white relative z-10 px-6 text-center">{caseStudy.title}</h3>
@@ -208,8 +209,9 @@ const ServicePage: React.FC<ServicePageProps> = ({ service, relatedLocations }) 
                     <Image 
                       src={`/images/locations/${location.id}.jpg`} 
                       alt={location.name} 
-                      layout="fill"
-                      objectFit="cover"
+                      width={800}
+                      height={400}
+                      className="object-cover"
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent"></div>
                     <div className="absolute bottom-0 left-0 p-6">

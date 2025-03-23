@@ -25,7 +25,7 @@ const ServiceLocationPage: React.FC<ServiceLocationPageProps> = ({ service, loca
     return <div>Loading...</div>;
   }
 
-  const seo = getServiceLocationSEO(service, location, locale);
+  const seo = getServiceLocationSEO(service, location);
 
   return (
     <div className="min-h-screen flex flex-col">
@@ -104,9 +104,9 @@ const ServiceLocationPage: React.FC<ServiceLocationPageProps> = ({ service, loca
                 <Image 
                   src={`/images/locations/${location.id}.jpg`} 
                   alt={location.name} 
-                  layout="fill"
-                  objectFit="cover"
-                  className="rounded-xl"
+                  width={800}
+                  height={400}
+                  className="object-cover rounded-xl"
                 />
               </div>
             </div>
@@ -193,8 +193,9 @@ const ServiceLocationPage: React.FC<ServiceLocationPageProps> = ({ service, loca
                       <Image 
                         src={`/images/case-study-${location.id}-${index + 1}.jpg`} 
                         alt={caseStudy.title} 
-                        layout="fill"
-                        objectFit="cover"
+                        width={800}
+                        height={400}
+                        className="object-cover"
                       />
                       <div className="absolute inset-0 bg-black/40"></div>
                       <h3 className="text-2xl font-bold text-white relative z-10 px-6 text-center">{caseStudy.title}</h3>
